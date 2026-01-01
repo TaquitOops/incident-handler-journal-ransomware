@@ -16,26 +16,23 @@ The project was completed as part of the **Google Cybersecurity Professional Cer
 - Cybersecurity reporting
 - Security awareness and risk analysis
 
-## 📂 Repository Structure
--incident-handler-journal-ransomware/
-
--│
--├── README.md
--│
--├── journal/
--│   └── incident-entry-01.md
--│
--├── scenario/
--│   └── ransomware-phishing-scenario.md
--│
--└── docs/
--   └── incident-handler-journal-template.md
+##  Repository Structure
+```
+incident-handler-journal-ransomware/
+├── README.md
+├── journal/
+│   └── incident-entry-01.md
+├── scenario/
+│   └── ransomware-phishing-scenario.md
+└── docs/
+    └── incident-handler-journal-template.md
+```
 
 
 ##  Incident Summary
 A small healthcare clinic in the United States experienced a ransomware attack after employees opened malicious phishing email attachments. Critical systems were encrypted, causing severe business disruption.
 
-## 🏁 Author
+##  Author
 Angel Marmolejo  
 Cybersecurity Student – Systems Engineering  
 
